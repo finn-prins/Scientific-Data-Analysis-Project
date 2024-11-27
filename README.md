@@ -8,5 +8,5 @@
 
 # Hypothesis: 
 # Null hypothesis: There is no impact of Twitter  posts by individuals with over one million followers on the Bitcoin price movements.
-# Alternative Hypothesis: There is an impact of Twitter posts by individuals with over one million followers on the Bitcoin price movements/
+# Alternative Hypothesis: There is an impact of Twitter posts by individuals with over one million followers on the Bitcoin price movements
 
