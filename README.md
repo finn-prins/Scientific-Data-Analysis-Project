@@ -13,4 +13,9 @@
 
 **Alternative Hypothesis:** Twitter (X) posts are correlated with changes in Bitcoin prices and trading volume.
 
-# Methods
+## Methods
+
+### Data ###
+**Twiter dataset (https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329)**
+
+**Bitcoin dataset (https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)**
