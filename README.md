@@ -22,8 +22,6 @@
 
 **Sentiment analysis dataset: https://drive.google.com/file/d/1rlvUkfD442PeGgEPLrBGxbKD6logsuMg/view?usp=sharing**
 
-**Sentiment analysis dataset: **
-
 To setup the data so that everything works, you need to download the data from the links above and place them in folder called `data` in the root of the project.
 The twitter dataset from kaggle is not necessary because this is the data we used for the sentiment analysis, which we have in the file from our google drive.
 
