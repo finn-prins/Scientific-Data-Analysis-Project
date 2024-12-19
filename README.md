@@ -48,12 +48,19 @@ The main data analysis can be found in the notebook: team_11.ipynb
 
 **Packages**
 pip install vaderSentiment
+
 pip install pandas
+
 pip install statsmodels
+
 pip install seaborn
+
 pip install scikit-learn
+
 pip install langdetect
+
 pip install wordcloud
+
 pip install nltk
 
 
