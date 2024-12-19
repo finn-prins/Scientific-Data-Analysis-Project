@@ -27,7 +27,7 @@ The twitter dataset from kaggle is not necessary because this is the data we use
 
 So the root folder should look like this:
 
-data/bitcoin-historical-data.csv
+data/btcusd_1-min_data.csv
 
 data/twitter_sentiment.csv
 
