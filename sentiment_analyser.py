@@ -26,10 +26,9 @@ def vader_sentiment(text):
 
 def is_english(text):
     try:
-        #check if the line is Nan or empty
         if pd.isna(text) or text.strip() == '':
             return False
-        #using detect function to find english text
+
         return detect(text) == 'en'
     except:
          return False
@@ -45,7 +44,7 @@ with keep.running():
     tweet['date'] = tweet['date'].dt.date
     tweet = tweet.drop(columns=['id', 'user', 'fullname', 'url'])
 
-    start_time = time.time()  # Start the timer
+    start_time = time.time() 
     tweet['is_english'] = tweet['text'].apply(is_english)
     tweet = tweet[tweet['is_english'] == True]
 
